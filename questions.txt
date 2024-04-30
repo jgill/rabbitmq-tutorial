@@ -1,0 +1,1 @@
+How can you address high availability with RabbitMQ?
